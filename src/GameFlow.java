@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * GameFlow class is class that represents
+ * Game flow class represents the flow of the game.
  */
 public class GameFlow {
 
