@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  * @author Yair Gat <ID:324184036,User:gatyair>
- * Ball class includes fields and methods that reprsent balls.
+ * GameEnvironment
  */
 public class GameEnvironment {
 
