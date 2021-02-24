@@ -1,5 +1,5 @@
 /**
- * Counter uses to represents counter object.
+ * Counter class.
  */
 public class Counter {
 
