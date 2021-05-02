@@ -1,7 +1,7 @@
 import java.awt.Color;
 import java.util.ArrayList;
 /**
- * Class that store information about WideEasy.
+ * WideEasy contains methods and field that represents the Wide Easy level.
  */
 public class WideEasy implements  LevelInformation {
     /**
