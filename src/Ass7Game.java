@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Ass6Game uses as a main for our game and start the game.
+ * Ass6Game is a main of our game, in this class the game is starting to flow.
  */
 public class Ass7Game {
     public static void main(String[] args) throws IOException {
