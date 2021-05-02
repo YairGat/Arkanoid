@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.util.ArrayList;
 
 /**
- * DeathRegion is class that represents the bottom part of the screen amd used to hit notifer.
+ * DeathRegion represents the bottom part of the screen amd used to hit notifer.
  */
 
 public class DeathRegion extends Block implements HitNotifier {
