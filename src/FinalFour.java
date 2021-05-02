@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.util.ArrayList;
 
 /**
- * Class that store information about levels.
+ *  FinalFour contains methods and field that represents the Final Four level.
  */
 public class FinalFour implements LevelInformation {
     /**
