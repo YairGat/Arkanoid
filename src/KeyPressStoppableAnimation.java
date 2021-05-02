@@ -1,7 +1,7 @@
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 /**
- * Animation interface used the basic for any type of animation.
+ * KeyPressStoppableAnimation 
  */
 public class KeyPressStoppableAnimation implements Animation {
     private KeyboardSensor sensor;
