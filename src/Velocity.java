@@ -8,7 +8,7 @@ public class Velocity {
     private double dy;
 
     /**
-     * Velocity method is the constructor of Velocity class.
+     * Constructor.
      *
      * @param dx is the velocity x coordinate.
      * @param dy is the velocity y coordinate.
