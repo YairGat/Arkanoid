@@ -5,7 +5,7 @@ import biuoop.Sleeper;
 import java.security.Guard;
 
 /**
- * AnimationRunner class accounts for run animation.
+ * AnimationRunner class contains function for run animations.
  */
 public class AnimationRunner {
     private GUI gui;
