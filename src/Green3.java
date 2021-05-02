@@ -1,7 +1,7 @@
 import java.awt.Color;
 import java.util.ArrayList;
 /**
- * Class that store information about levels.
+ *  Green3 contains methods and field that represents the Green 3 level.
  */
 public class Green3 implements LevelInformation {
     /**
