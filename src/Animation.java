@@ -1,7 +1,7 @@
 import biuoop.DrawSurface;
 
 /**
- * Animation interface used the basic for any type of animation.
+ * Animation interface has all function that any animation in the program needs.
  */
 public interface Animation {
     /**
