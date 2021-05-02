@@ -6,7 +6,7 @@ import java.time.temporal.ValueRange;
 import java.util.ArrayList;
 
 /**
- * Class that store information about WideEasy.
+ *  DirectHit contains methods and field that represents the DirectHit level.
  */
 public class DirectHit implements LevelInformation {
     private int numberOfBalls;
